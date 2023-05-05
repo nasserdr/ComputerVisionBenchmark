@@ -2,3 +2,6 @@ images/
 legacy/
 results*/
 *checkpoint*
+chat.txt
+!results_A100D-2-20C/count_files.csv
+!results_A100D-2-20C/file_counts.csv
